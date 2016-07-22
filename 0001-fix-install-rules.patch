@@ -1,4 +1,4 @@
-From 98960708b749fc3fe9f3989ccd37cf262fd59e7d Mon Sep 17 00:00:00 2001
+From f3ed3521f42d0086fe8c37bd3087de35ea1ce181 Mon Sep 17 00:00:00 2001
 From: Ioan Sucan <isucan@gmail.com>
 Date: Sat, 15 Feb 2014 20:56:12 -0800
 Subject: [PATCH] fix install rules
@@ -30,5 +30,5 @@ index 33a7d34..4d26ec4 100644
 +#enable_testing()
 +#add_subdirectory(test)
 -- 
-1.9.1
+2.9.0
 
